@@ -1,9 +1,10 @@
 # 99Tech
-## 1. Install dependencies:
-  - npm i
-## 2. Run the server api
-  - npm run dev
-  - Server will run on: http://localhost:3080
+## Run Project
+  ### 1. Install dependencies:
+     npm i
+  ### 2. Run the server api
+     npm run dev
+ Server will run on: http://localhost:3080
 ## Problem 4 document ##
   - It will show result on console window when you restart project.
 ## Problem 5 api document ##
